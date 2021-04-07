@@ -34,6 +34,11 @@ The following practical topics will be discussed in the context of Palladio and 
 
 ## Target Audience
 The tutorial targets practitioners as well as researchers in the field of software architecture.
+
+Practitioners are invited to get in touch with recent research results and accompanying tooling. While we are aware that our tooling is not industrial grade, we would be happy to get some feedback from practitioners if these tools would be useful for them or what had to be changed.
+
+Researchers can get an in-depth look into research results and how to use them. This is not possible by reading condensed papers about the topic. Again, we are happy about feedback on the presented concepts and possible extensions.
+
 We do not require any previous knowledge because we recap all required foundations.
 However, knowledge in component-based software development, Palladio or access control or information flow control are helpful.
 
