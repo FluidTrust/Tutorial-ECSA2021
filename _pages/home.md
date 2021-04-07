@@ -40,6 +40,8 @@ However, knowledge in component-based software development, Palladio or access c
 ## Attending the Tutorial
 There are no information about attending yet because the planning of the ECSA schedule is not finished yet. However, we will certainly require some sort of registration for the tutorial to plan the hands-on sessions properly. Information regarding this registration will be available soon.
 
+We will inform all registered participants before the tutorial about necessary preparations. The instructions provided on this page are not complete yet but already given an idea on what will be required.
+
 ## Important Notice
 The page is still under construction because organizational topics are not clear yet. Therefore, all information on this page can be subject to future change.
 
