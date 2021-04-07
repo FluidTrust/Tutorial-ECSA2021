@@ -22,14 +22,14 @@ The third major learning objective is to realize the impact of context-based cha
 
 | Time          | Topic                                                              | Mode                              |
 |---------------|--------------------------------------------------------------------|-----------------------------------|
-| 9:00 - 9:30   | Welcoming                                                          | Introduction round / presentation |
-| 9:30 - 10:00  | Architecture Modeling Using Palladio                               | Live demonstration                |
-| 10:00 - 10:20 | Modeling Task                                                      | Hands-on session                  |
-| 10:20 - 10:30 | Break                                                              |                                   |
-| 10:30 - 10:50 | Foundations on Confidentiality                                     | Presentation                      |
-| 10:50 - 11:10 | Reduction of Confidentiality Analyses to Label Propagation         | Presentation                      |
-| 11:10 - 11:30 | Confidentiality Modeling Using Palladio                            | Live demonstration                |
-| 11:30 - 11:50 | Modeling Task                                                      | Hands-on session                  |
+| 9:00  - 9:15  | Welcoming                                                          | Introduction round / presentation |
+| 9:15  - 09:45 | Architecture Modeling Using Palladio                               | Live demonstration                |
+| 09:45 - 10:10 | Modeling Task                                                      | Hands-on session                  |
+| 10:10 - 10:20 | Break                                                              |                                   |
+| 10:20 - 10:40 | Foundations on Confidentiality                                     | Presentation                      |
+| 10:40 - 11:00 | Reduction of Confidentiality Analyses to Label Propagation         | Presentation                      |
+| 11:00 - 11:20 | Confidentiality Modeling Using Palladio                            | Live demonstration                |
+| 11:20 - 11:50 | Modeling Task                                                      | Hands-on session                  |
 | 11:50 - 12:00 | Break                                                              |                                   |
 | 12:00 - 12:20 | Confidentiality Analyses Using Palladio                            | Live demonstration                |
 | 12:20 - 12:50 | Effect of context-based changes and uncertainty on Confidentiality | Discussion                        |
