@@ -1,5 +1,5 @@
 ---
-permalink: /material
+permalink: /material/
 title: Material
 header:
   image: /assets/images/feature_image_material.jpg

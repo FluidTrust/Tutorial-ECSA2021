@@ -1,5 +1,5 @@
 ---
-permalink: /presenters
+permalink: /presenters/
 title: Presenters
 header:
   image: /assets/images/feature_image_presenters.jpg

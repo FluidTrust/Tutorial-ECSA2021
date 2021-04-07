@@ -1,5 +1,5 @@
 ---
-permalink: /agenda
+permalink: /agenda/
 title: Preliminary Agenda
 header:
   image: /assets/images/feature_image_agenda.jpg
