@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Agenda"
+    url: /agenda/
+  - title: "Material"
+    url: /material/
+  - title: "Presenters"
+    url: /presenters/
+  - title: "Changelog"
+    url: /changelog/
