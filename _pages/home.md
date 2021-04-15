@@ -53,7 +53,7 @@ The page is still under construction because organizational topics are not clear
 We will update this page continuously and summarize changes in our [changelog]({{ site.baseurl }}/changelog/). There is also an [RSS feed]({{ site.baseurl }}/feed.xml) for that changelog.
 
 ## Acknowledgement
-This work is partially funded by the DFG (German Research Foundation) – projectnumber 432576552, HE8596/1-1 (FluidTrust).
+This work is partially funded by the DFG (German Research Foundation) – projectnumber 432576552, HE8596/1-1 (FluidTrust) and the KASTEL institutional funding.
 
 ## Organisation / Questions
 The tutorial is organized by the people mentioned under [presenters]({{ site.baseurl }}/presenters/). For questions, please contact Stephan Seifermann (stephan.seifermann [AT] kit.edu).
