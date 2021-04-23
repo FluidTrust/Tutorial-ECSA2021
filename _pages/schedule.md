@@ -22,15 +22,9 @@ The initial schedule is as follows. However, we will adjust it according to the 
 
 | Time          | Topic                                                              | Mode                              |
 |---------------|--------------------------------------------------------------------|-----------------------------------|
-| 9:00  - 9:15  | Welcoming                                                          | Introduction round / presentation |
-| 9:15  - 09:45 | Architecture Modeling Using Palladio                               | Live demonstration                |
-| 09:45 - 10:10 | Modeling Task                                                      | Hands-on session                  |
-| 10:10 - 10:20 | Break                                                              |                                   |
-| 10:20 - 10:40 | Foundations on Confidentiality                                     | Presentation                      |
-| 10:40 - 11:00 | Reduction of Confidentiality Analyses to Label Propagation         | Presentation                      |
-| 11:00 - 11:20 | Confidentiality Modeling Using Palladio                            | Live demonstration                |
-| 11:20 - 11:50 | Modeling Task                                                      | Hands-on session                  |
-| 11:50 - 12:00 | Break                                                              |                                   |
-| 12:00 - 12:20 | Confidentiality Analyses Using Palladio                            | Live demonstration                |
-| 12:20 - 12:50 | Effect of context-based changes and uncertainty on Confidentiality | Discussion                        |
-| 12:50 - 13:00 | Summary                                                            | Presentation / feedback round     |
+| 14:00 - 14:15 | Welcoming                                                          | Introduction round / presentation |
+| 14:15 - 15:00 | Modeling Role-based Access Control Using Palladio                  | Presentation / Live demonstration |
+| 15:00 - 15:20 | Modeling Task                                                      | Hands-on                          |
+| 15:20 - 15:30 | Break                                                              |                                   |
+| 15:30 - 16:10 | Defining and Executing an RBAC Analysis Using Palladio             | Live demonstration / Hands-on     |
+| 16:10 - 16:30 | Summary / Future Work / Feedback                                   | Presentation/ Discussion          |
