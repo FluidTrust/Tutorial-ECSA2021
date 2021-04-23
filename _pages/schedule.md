@@ -15,8 +15,6 @@ Properties become labels and behaviors become label propagation functions.
 The second major learning objective is how to practically model and analyze confidentiality aspects within Palladio architecture models.
 As a minor learning objective within that point, attendees should become aware that Palladio is not only an architectural performance simulator but considers further quality properties, which especially includes confidentiality.
 
-The third major learning objective is to realize the impact of context-based changes and uncertainty for confidentiality analyses. This also includes to know how to classify uncertainty during the architectural modeling and what effect this uncertainty can have.
-
 ## Schedule
 The initial schedule is as follows. However, we will adjust it according to the wishes of the participants during the tutorial. For instance, shifting breaks or omitting/shortening foundational parts already known to the participants is always possible.
 
