@@ -14,18 +14,16 @@ Despite of raising awareness regarding the need to consider confidentiality, the
 This tutorial introduces a static analysis operating on software architectures modeled within the Palladio approach.
 Besides foundational knowledge, the tutorial provides a practical hands-on session using the tool.
 The goal is to show that it is already possible to consider confidentiality in the early design process and that this consideration can be integrated into existing architectural design tools.
-Besides this existing approach, we also aim for discussing future extensions that address upcoming challenges such as considering uncertainty when reasoning about confidentiality.
 
 ## Covered Topics
 The workshop will cover a mix of foundational, conceptual and practical topics.
-The foundational topics will be:
-* Foundations on information flow and access control
+The foundational topics will be short but cover
+* Foundations on access control
 * Foundations of data flow(-based) modeling
 
 The covered conceptual topics are about identifying essential aspects of a confidentiality analysis:
 * Reduction of confidentiality modeling and analyses to essential confidentiality properties and behavioral building blocks
 * Formulation of confidentiality analyses by means of properties of data and processing entities
-* Means for considering uncertainty in the execution context or usage of the system
 
 The following practical topics will be discussed in the context of Palladio and its tooling:
 * Component-based modeling of Software Architectures (short)
@@ -43,6 +41,8 @@ We do not require any previous knowledge because we recap all required foundatio
 However, knowledge in component-based software development, Palladio or access control or information flow control are helpful.
 
 ## Attending the Tutorial
+The tutorial will be held on September, 13th. The particular time will be available soon.
+
 There are no information about attending yet because the planning of the ECSA schedule is not finished yet. However, we will certainly require some sort of registration for the tutorial to plan the hands-on sessions properly. Information regarding this registration will be available soon.
 
 We will inform all registered participants before the tutorial about necessary preparations. The instructions provided on this page are not complete yet but already given an idea on what will be required.
