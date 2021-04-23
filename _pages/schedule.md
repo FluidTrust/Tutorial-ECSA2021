@@ -20,9 +20,9 @@ The initial schedule is as follows. However, we will adjust it according to the 
 
 | Time          | Topic                                                              | Mode                              |
 |---------------|--------------------------------------------------------------------|-----------------------------------|
-| 14:00 - 14:15 | Welcoming                                                          | Introduction round / presentation |
-| 14:15 - 15:00 | Modeling Role-based Access Control Using Palladio                  | Presentation / Live demonstration |
-| 15:00 - 15:20 | Modeling Task                                                      | Hands-on                          |
-| 15:20 - 15:30 | Break                                                              |                                   |
-| 15:30 - 16:10 | Defining and Executing an RBAC Analysis Using Palladio             | Live demonstration / Hands-on     |
-| 16:10 - 16:30 | Summary / Future Work / Feedback                                   | Presentation/ Discussion          |
+| 15:00 - 15:15 | Welcoming                                                          | Introduction round / presentation |
+| 15:15 - 16:00 | Modeling Role-based Access Control Using Palladio                  | Presentation / Live demonstration |
+| 16:00 - 16:20 | Modeling Task                                                      | Hands-on                          |
+| 16:20 - 16:30 | Break                                                              |                                   |
+| 16:30 - 17:10 | Defining and Executing an RBAC Analysis Using Palladio             | Live demonstration / Hands-on     |
+| 17:10 - 17:30 | Summary / Future Work / Feedback                                   | Presentation/ Discussion          |
