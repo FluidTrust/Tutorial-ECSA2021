@@ -41,7 +41,7 @@ We do not require any previous knowledge because we recap all required foundatio
 However, knowledge in component-based software development, Palladio or access control or information flow control are helpful.
 
 ## Attending the Tutorial
-The tutorial will be held on September, 13th. The particular time will be available soon.
+The tutorial will be held (most probably) on September, 13th at 5pm - 8pm CEST (UTC+2).
 
 There are no information about attending yet because the planning of the ECSA schedule is not finished yet. However, we will certainly require some sort of registration for the tutorial to plan the hands-on sessions properly. Information regarding this registration will be available soon.
 
