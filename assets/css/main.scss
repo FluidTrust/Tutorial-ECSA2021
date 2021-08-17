@@ -7,8 +7,22 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+$max-width:100%;
+
+.wide .page {
+    width: inherit;
+}
+
+.page {
+    width: inherit;
+}
+
 .presenter {
     float: left;
     margin-right: 1em;
-    margin-bottom: 5px;
+    margin-bottom: 40px;
+}
+
+.clear-both {
+    clear: both;
 }
