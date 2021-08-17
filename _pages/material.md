@@ -5,14 +5,35 @@ header:
   image: /assets/images/feature_image_material.jpg
 ---
 
-This page will provide all material as well as installation instructions for the tools to be used in the tutorial.
+This page provides all material as well as installation instructions for the tools to be used in the tutorial.
+
+**Warning:** All content on this page might still be subject to change. Please consult this page a few days before the tutorial to get the latest version of the material.
+{: .notice--warning}
+
+## Prerequisites
+In order to use the material, there are some prerequisites
+* Window/Linux/MacOSX 64bit operating system (amd64 instruction set)
+* Java [11;16) installed
+* Application to unzip files installed
 
 ## Palladio Drop
-The Palladio drop is a ready to use Eclipse instance that has all necessary plugins installed. Because the confidentiality extensions are not yet part of the Palladio mainline development, there will be a specific drop for the tutorial.
+The Palladio drop is a ready to use Eclipse instance that has all necessary plugins installed. Because the confidentiality extensions are not yet part of the Palladio mainline development, there is a specific drop for the tutorial.
 
-In order to use the drop, ensure that you can extract ZIP files and that you have Java [11;15) installed. Extract the zip file and execute the `eclipse` binary. Afterwards, select an arbitrary workspace path.
+In order to use the drop, you have to
+* Download the appropriate version for your operating system
+  * [Windows](https://updatesite.palladio-simulator.com/fluidtrust/palladio-bench-product-dataflowconfidentiality/branches/stable/PalladioDataFlowConfidentiality.win32.win32.x86_64.zip)
+  * [Linux](https://updatesite.palladio-simulator.com/fluidtrust/palladio-bench-product-dataflowconfidentiality/branches/stable/PalladioDataFlowConfidentiality.linux.gtk.x86_64.zip)
+  * [MacOSX](https://updatesite.palladio-simulator.com/fluidtrust/palladio-bench-product-dataflowconfidentiality/branches/stable/PalladioDataFlowConfidentiality.macosx.cocoa.x86_64.zip)
+* MacOSX only: [remove quarantine flags](https://sdqweb.ipd.kit.edu/wiki/Palladio_Component_Model/FAQ#MacOS_reports_that_Palladio_is_damaged)
+* extract downloaded drop to any location
 
-In addition, users of macOS have to [remove quarantine flags](https://sdqweb.ipd.kit.edu/wiki/Palladio_Component_Model/FAQ#MacOS_reports_that_Palladio_is_damaged), install [SWI Prolog](https://www.swi-prolog.org) and ensure that the executable `swipl` is on the path.
+## Manual on Using Palladio Drop
+We created an [online manual](https://fluidtrust.github.io/tutorial-ecsa2021-tooldoc/) summarizing the most important aspects, which we also explain within the tutorial. The purpose of the manual is mainly to look up aspects, so you are not expected to read the whole manual.
 
-## Example Models
-For every step in the tutorial, we provide the initial models to start from as well as one possible solution to each modeling task.
+## Task Instructions
+The task instructions are available on this website:
+* [Modeling Task]({{ site.baseurl }}/tasks/modeling)
+* [Analysis Task]({{ site.baseurl }}/tasks/analysis)
+
+## Tutorial Slides
+We will publish the slides used in the tutorial after the tutorial.

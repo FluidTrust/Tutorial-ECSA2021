@@ -16,14 +16,11 @@ Besides foundational knowledge, the tutorial provides a practical hands-on sessi
 The goal is to show that it is already possible to consider confidentiality in the early design process and that this consideration can be integrated into existing architectural design tools.
 
 ## Covered Topics
-The workshop will cover a mix of foundational, conceptual and practical topics.
-The foundational topics will be short but cover
-* Foundations on access control
-* Foundations of data flow(-based) modeling
+The workshop will cover a mix of conceptual and practical topics.
 
 The covered conceptual topics are about identifying essential aspects of a confidentiality analysis:
-* Reduction of confidentiality modeling and analyses to essential confidentiality properties and behavioral building blocks
-* Formulation of confidentiality analyses by means of properties of data and processing entities
+* General idea of conducting a confidentiality analyses by label propagation
+* Conducting a Role-based Access Control (RBAC) analysis by label propagation
 
 The following practical topics will be discussed in the context of Palladio and its tooling:
 * Component-based modeling of Software Architectures (short)
@@ -43,17 +40,17 @@ However, knowledge in component-based software development, Palladio or access c
 ## Attending the Tutorial
 The tutorial will be held (most probably) on September, 13th at 5pm - 8pm CEST (UTC+2).
 
-There are no information about attending yet because the planning of the ECSA schedule is not finished yet. However, we will certainly require some sort of registration for the tutorial to plan the hands-on sessions properly. Information regarding this registration will be available soon.
+A registration to ECSA 2021 is mandatory to attend the tutorial. Please tick the box next to our tutorial during the registration to indicate that you plan to attend the tutorial.
 
-We will inform all registered participants before the tutorial about necessary preparations. The instructions provided on this page are not complete yet but already given an idea on what will be required.
+We will inform all registered participants before the tutorial about necessary preparations. If you should not receive this information, you can also use this website to collect all required preparation steps and material before the tutorial.
 
 ## Important Notice
-The page is still under construction because organizational topics are not clear yet. Therefore, all information on this page can be subject to future change.
+The page is still under construction and some content might change in future.
 
 We will update this page continuously and summarize changes in our [changelog]({{ site.baseurl }}/changelog/). There is also an [RSS feed]({{ site.baseurl }}/feed.xml) for that changelog.
 
 ## Acknowledgement
-This work is partially funded by the DFG (German Research Foundation) – projectnumber 432576552, HE8596/1-1 (FluidTrust) and the KASTEL institutional funding.
+This work is funded by the DFG (German Research Foundation) – project number 432576552, HE8596/1-1 (FluidTrust) and also supported by funding of the Helmholtz Association (HGF) through the Competence Center for Applied Security Technology (KASTEL) (46.23).
 
 ## Organisation / Questions
 The tutorial is organized by the people mentioned under [presenters]({{ site.baseurl }}/presenters/). For questions, please contact Stephan Seifermann (stephan.seifermann [AT] kit.edu).
