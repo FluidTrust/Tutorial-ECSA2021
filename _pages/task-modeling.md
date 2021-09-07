@@ -27,13 +27,13 @@ We already defined most of the propagation but we are not finished yet. Your tas
 Your task is to complete the existing specification.
 
 All characteristics of nodes are missing. Create the missing characteristics as described in the following table.
-
-| Model                | Element                     | Characteristic Type | Value   |
-|----------------------|-----------------------------|---------------------|---------|
-| Usage Model          | UsageScenario User          | AssignedRoles       | User    |
-| Usage Model          | UsageScenario FlightPlanner | AssignedRoles       | Airline |
-| Resource Environment | Resource Mobile             | AssignedRoles       | User    |
-| Resource Environment | Resource AirlineServer      | AssignedRoles       | Airline |
+    
+| Model                | Element Type      | Element Name  | Characteristic Type | Value   |
+|----------------------|-------------------|---------------|---------------------|---------|
+| Usage Model          | UsageScenario     | User          | AssignedRoles       | User    |
+| Usage Model          | UsageScenario     | FlightPlanner | AssignedRoles       | Airline |
+| Resource Environment | ResourceContainer | Mobile        | AssignedRoles       | User    |
+| Resource Environment | ResourceContainer | AirlineServer | AssignedRoles       | Airline |
 
 Some assignments in the usage model are missing. Create the missing assignments as described in the following table.
 
@@ -44,11 +44,11 @@ Some assignments in the usage model are missing. Create the missing assignments 
 
 Some assignments in service effect specifications (SEFFs) are missing. Create the missing assignments as described in the following table.
 
-| SEFF                                       | Action                       | Variable Usage | Assignments                                                      |
-|--------------------------------------------|------------------------------|----------------|------------------------------------------------------------------|
-| CreditCardCenterLogic:declassifyForAirline | return declassified ccd      | RETURN         | `RETURN.*.* := ccd.*.*`<br>`RETURN.GrantedRoles.Airline := true` |
-| TravelPlanner:findFlights                  | request flights from airline | flights        | `flights.*.* := RETURN.*.*`                                      |
-| TravelPlanner:findFlights                  | return found flights         | RETURN         | `RETURN.*.* := flights.*.*`                                      |
+| Component             | SEFF                 | Action                       | Variable Usage | Assignments                                                                     |
+|----------------------------------------------|------------------------------|----------------|---------------------------------------------------------------------------------|
+| CreditCardCenterLogic | declassifyForAirline | return declassified ccd      | RETURN         | `RETURN.{`<br>`    *.* := ccd.*.*`<br>`    GrantedRoles.Airline := true`<br>`}` |
+| TravelPlanner         | findFlights          | request flights from airline | flights        | `flights.*.* := RETURN.*.*`                                                     |
+| TravelPlanner         | findFlights          | return found flights         | RETURN         | `RETURN.*.* := flights.*.*`                                                     |
 
 ## Expected Results
 You can compare your models with the models contained in the modeling project `TravelPlanner_03_ModeledRBAC`, which is already located in your Palladio tooling.

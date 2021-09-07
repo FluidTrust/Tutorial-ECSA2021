@@ -13,12 +13,21 @@ The goal of the analysis task is to get acquainted with the user interface for c
 * [Tooling documentation]({{ site.baseurl }}/material#manual-on-using-palladio-drop) (optional)
 
 ## Scenario
-You completely specified the characteristics of nodes and data in the previous task. In addition, you created the query for checking the compliance of the architecture with the RBAC policy and wrote it into the file `travelPlanner.DCPDSL`. Only the run configuration to execute the analysis is still missing. Therefore, you have to create it.
+You completely specified the characteristics of nodes and data in the previous task. In addition, assume that you created the query for checking the compliance of the architecture with the RBAC policy and that you wrote it into the file `travelPlanner.DCPDSL`. Only the run configuration to execute the analysis is still missing. Therefore, you have to create it.
 
 Side note: In the meantime, the domain expert adjusted the usage model without consulting you. We will check if this change violates the policy by running the analysis.
 
 ## Task Instructions
-Your task is to create and run a run configuration. Create a new run configuration (ignore existing ones) and refer to the requested models and files from the `TravelPlanner_04_ModeledRBACWithIssue` project. As a result file, define the file `result.txt` in the `TravelPlanner_04_ModeledRBACWithIssue` project. Afterwards, run the analysis. Inspect the result file and try to find the cause of the violation.
+Your task is to create and run a run configuration. Create a new run configuration (ignore existing ones) and refer to the requested models and files from the `TravelPlanner_04_ModeledRBACWithIssue` project. As a result file, define the file `result.txt` in the `TravelPlanner_04_ModeledRBACWithIssue` project. The required inputs for the run configuration are visualized in the table below.
+
+| Input               | Value                                                             |
+|---------------------|-------------------------------------------------------------------|
+| Usage Model         | `/TravelPlanner_04_ModeledRBACWithIssue/travelPlanner.usagemodel` |
+| Allocation Model    | `/TravelPlanner_04_ModeledRBACWithIssue/travelPlanner.allocation` |
+| Analysis Definition | `/TravelPlanner_04_ModeledRBACWithIssue/travelPlanner.DCPDSL`     |
+| Result File         | `/TravelPlanner_04_ModeledRBACWithIssue/result.txt`               |
+
+Afterwards, run the created analysis. Inspect the result file and try to understand the found violation.
 
 The project `TravelPlanner_05_RBACAnalysis` contains a fixed version of the model. You can run the corresponding analysis by running the run configuration `TravelPlanner_RBAC`. Have a look at the produced result.
 
