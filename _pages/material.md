@@ -7,9 +7,6 @@ header:
 
 This page provides all material as well as installation instructions for the tools to be used in the tutorial.
 
-**Warning:** All content on this page might still be subject to change. Please consult this page a few days before the tutorial to get the latest version of the material.
-{: .notice--warning}
-
 ## Prerequisites
 In order to use the material, there are some prerequisites
 * Window/Linux/MacOSX 64bit operating system (amd64 instruction set)
@@ -24,7 +21,7 @@ In order to use the drop, you have to
   * [Windows](https://updatesite.palladio-simulator.com/fluidtrust/palladio-bench-product-dataflowconfidentiality/branches/stable/PalladioDataFlowConfidentiality.win32.win32.x86_64.zip)
   * [Linux](https://updatesite.palladio-simulator.com/fluidtrust/palladio-bench-product-dataflowconfidentiality/branches/stable/PalladioDataFlowConfidentiality.linux.gtk.x86_64.zip)
   * [MacOSX](https://updatesite.palladio-simulator.com/fluidtrust/palladio-bench-product-dataflowconfidentiality/branches/stable/PalladioDataFlowConfidentiality.macosx.cocoa.x86_64.zip)
-* MacOSX only: [remove quarantine flags](https://sdqweb.ipd.kit.edu/wiki/Palladio_Component_Model/FAQ#MacOS_reports_that_Palladio_is_damaged)
+* MacOSX only: [remove quarantine flags](https://sdqweb.ipd.kit.edu/wiki/Palladio_Component_Model/FAQ#MacOS_reports_that_Palladio_is_damaged) by running `xattr -rd com.apple.quarantine Eclipse.app` in the terminal
 * extract downloaded drop to any location
 
 ## Manual on Using Palladio Drop

@@ -38,16 +38,14 @@ We do not require any previous knowledge because we recap all required foundatio
 However, knowledge in component-based software development, Palladio or access control or information flow control are helpful.
 
 ## Attending the Tutorial
-The tutorial will be held (most probably) on September, 13th at 5pm - 8pm CEST (UTC+2).
+The tutorial will be held on September, 13th at 5pm - 8pm CEST (UTC+2).
 
-A registration to ECSA 2021 is mandatory to attend the tutorial. Please tick the box next to our tutorial during the registration to indicate that you plan to attend the tutorial.
+A [registration](https://conf.researchr.org/info/ecsa-2021/registration) to ECSA 2021 is mandatory to attend the tutorial. Please tick the box next to our tutorial during the registration to indicate that you plan to attend the tutorial.
 
-We will inform all registered participants before the tutorial about necessary preparations. If you should not receive this information, you can also use this website to collect all required preparation steps and material before the tutorial.
+We will inform all registered participants before the tutorial about necessary preparations. If you should not receive this information, please consult the [material]({{ site.baseurl }}/material/) page to learn about the necessary preparations.
 
-## Important Notice
-The page is still under construction and some content might change in future.
-
-We will update this page continuously and summarize changes in our [changelog]({{ site.baseurl }}/changelog/). There is also an [RSS feed]({{ site.baseurl }}/feed.xml) for that changelog.
+## Chanelog
+If we update this page, we will summarize changes in our [changelog]({{ site.baseurl }}/changelog/). There is also an [RSS feed]({{ site.baseurl }}/feed.xml) for that changelog.
 
 ## Acknowledgement
 This work is funded by the DFG (German Research Foundation) – project number 432576552, HE8596/1-1 (FluidTrust) and also supported by funding of the Helmholtz Association (HGF) through the Competence Center for Applied Security Technology (KASTEL) (46.23).

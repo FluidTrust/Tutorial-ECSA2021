@@ -25,4 +25,4 @@ We try to achieve these learning objectives by a modeling and an analysis sessio
 | 18:30 - 18:40 | Discussion of Modeling Task                                        | Live demonstration / Discussion   |
 | 18:40 - 19:00 | Analyzing Access Control Using Palladio                            | Presentation / Live demonstration |
 | 19:00 - 19:10 | Working Session on Analysis Task                                   | Hands-on                          |
-| 19:10 - 19:30 | Summary / Future Work / Feedback                                   | Presentation / Discussion         |
+| 19:10 - 19:45 | Summary / Future Work / Feedback                                   | Presentation / Discussion         |
