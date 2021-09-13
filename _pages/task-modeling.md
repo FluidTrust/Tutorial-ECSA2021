@@ -42,7 +42,7 @@ Some assignments in the usage model are missing. Create the missing assignments 
 | User           | store ccd        | ccd            | `ccd.GrantedRoles.User := true` |
 | User           | look for flights | query          | `query.GrantedRoles.* := true`  |
 
-Some assignments in service effect specifications (SEFFs) are missing. Create the missing assignments as described in the following table.
+Some assignments in service effect specifications (SEFFs) are missing. Open the repository diagram, look for the SEFFs listed in the following table below and create the missing assignments as described below.
 
 | Component             | SEFF                 | Action                       | Variable Usage | Assignments                                                                     |
 |----------------------------------------------|------------------------------|----------------|---------------------------------------------------------------------------------|
