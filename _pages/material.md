@@ -33,4 +33,4 @@ The task instructions are available on this website:
 * [Analysis Task]({{ site.baseurl }}/tasks/analysis)
 
 ## Tutorial Slides
-We will publish the slides used in the tutorial after the tutorial.
+You can download the slides used through the tutorial [here]({{ site.baseurl }}/assets/slides.pdf).
